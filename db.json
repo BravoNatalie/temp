@@ -1,0 +1,40 @@
+{
+  "1":{
+    "name": "Complus NFT 01",
+    "description": "First NFT of the Complus Network",
+    "image": "https://res.cloudinary.com/nataliebravo/image/upload/v1630412466/sample.jpg",
+    "attributes": [
+      {
+        "traitType": "hair",
+        "value": "blue"
+      },
+      {
+        "traitType": "background",
+        "value": "red"
+      },
+      {
+        "traitType": "eyes",
+        "value": "brown"
+      }
+    ]
+  },
+  "2":{
+    "name": "Complus NFT 02",
+    "description": "Second NFT of the Complus Network",
+    "image": "https://cdn.pixabay.com/photo/2021/11/05/12/27/woman-6771288_960_720.jpg",
+    "attributes": [
+      {
+        "traitType": "hair",
+        "value": "red"
+      },
+      {
+        "traitType": "background",
+        "value": "blue"
+      },
+      {
+        "traitType": "eyes",
+        "value": "blue"
+      }
+    ]
+  }
+}
