@@ -36,5 +36,43 @@
         "value": "blue"
       }
     ]
+  },
+  "3":{
+    "name": "Complus NFT 03",
+    "description": "Third NFT of the Complus Network",
+    "image": "https://cdn.pixabay.com/photo/2021/10/31/10/23/nature-6756974__340.png",
+    "attributes": [
+      {
+        "traitType": "hair",
+        "value": "brown"
+      },
+      {
+        "traitType": "background",
+        "value": "green"
+      },
+      {
+        "traitType": "eyes",
+        "value": "pink"
+      }
+    ]
+  },
+  "4":{
+    "name": "Complus NFT 04",
+    "description": "Fourth NFT of the Complus Network",
+    "image": "https://cdn.pixabay.com/photo/2021/10/21/14/03/cats-6729197__340.jpg",
+    "attributes": [
+      {
+        "traitType": "hair",
+        "value": "yellow"
+      },
+      {
+        "traitType": "background",
+        "value": "black"
+      },
+      {
+        "traitType": "eyes",
+        "value": "green"
+      }
+    ]
   }
 }
